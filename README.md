@@ -93,7 +93,3 @@
   - Vercel
   - Illustrator
   - Apache Server
-
-## Github Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alperenkvc)](https://git.io/streak-stats)
