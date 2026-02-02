@@ -9,7 +9,7 @@
 
 ## My Projects
 
-### mockup
+### mockup - Released soon
 
 <img src="" alt="mockup screenshots"/>
 
