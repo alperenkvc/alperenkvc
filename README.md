@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alperen</h1>
 
-<a href="https://www.linkedin.com/in/alperen-kavci-664310294/">
+<a target="blank" href="https://www.linkedin.com/in/alperen-kavci-664310294/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="">
