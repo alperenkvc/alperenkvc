@@ -21,13 +21,19 @@
 
 [Repository Link](https://github.com/alperenkvc/ExpenseTracker)
 
-<img src="" alt="ExpenseTracker screenshots"/>
+<div align="left">
+  <img width="1920" height="1440" alt="expense tracker" src="https://github.com/user-attachments/assets/68bac3af-e5db-4d5b-9dba-001b45323e79" />
+  <img width="1920" height="1440" alt="expense tracker" src="https://github.com/user-attachments/assets/d28a0830-92cd-47ae-9900-3eef66114c28" />
+  <img width="1920" height="1440" alt="expense tracker" src="https://github.com/user-attachments/assets/b299ac5d-ad57-41d0-9753-bbde7da10560" />
+  <img width="1920" height="1440" alt="expense tracker" src="https://github.com/user-attachments/assets/64c4d4e0-401d-4850-88d3-b7f4bd9474d0" />
+  <img width="1920" height="1440" alt="expense tracker" src="https://github.com/user-attachments/assets/48f5e541-c97a-441c-a7d5-7eb96e64f5b0" />
+</div>
 
 **ExpenseTracker** is a web app that lets its' users track their income and expense data, display them with clear visuals of graphs and tables, and export them as an excel file.
 
 ---
 
-##Notes
+### Notes
 
 [Repostiory Link](https://github.com/alperenkvc/Notes)
 
