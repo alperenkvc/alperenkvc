@@ -9,7 +9,9 @@
 
 ## My Projects
 
-### mockup - Released soon
+### mockup - v0.9
+
+[Repository Link](https://github.com/alperenkvc/mockup)
 
 <img width="380" height="350" alt="mockup" src="https://github.com/user-attachments/assets/fffc0fad-11ef-45f2-8757-409bfb68ff56" />
 
