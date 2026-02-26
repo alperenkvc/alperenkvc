@@ -60,7 +60,7 @@
 ## About Me
 
   - Started to study for Software Engineering Major Degree in 2023 
-  - Been developing full-stack websites since 2025
+  - Been developing full-stack websites since 2024
   - Career Goal: Delivering secure, high-performance, convenient products
   - Short-time Goal: Learning three.js
 
@@ -88,7 +88,6 @@
   - React
   - .NET MVC
   - Spring
-  - Angular
 
 ### Some of Other Technologies I Used For My Projects
 
