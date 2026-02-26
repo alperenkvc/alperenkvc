@@ -11,7 +11,8 @@
 
 ### mockup - Released soon
 
-<img src="" alt="mockup screenshots"/>
+<img width="1920" height="1440" alt="mockup" src="https://github.com/user-attachments/assets/fffc0fad-11ef-45f2-8757-409bfb68ff56" />
+
 
 **mockup** is a social media platform inspired from reddit; where users can publish posts, create/participate in groups, and engage with each other.
 
@@ -37,7 +38,10 @@
 
 [Repostiory Link](https://github.com/alperenkvc/Notes)
 
-<img src="" alt="Notes screenshots"/>
+<img width="380" height="350" alt="notes" src="https://github.com/user-attachments/assets/e4f47a16-d166-4bc9-8695-42fd4c128d3e" />
+<img width="1920" height="1440" alt="notes" src="https://github.com/user-attachments/assets/a63341e7-d03f-41d2-a395-415a4a3fbf38" />
+<img width="1920" height="1440" alt="notes" src="https://github.com/user-attachments/assets/ba3abaef-cf8b-4e0d-b3f0-0e3c52153afb" />
+
 
 **Notes** is a web app where users can create reminders, search them, and pin/unpin them.
 
