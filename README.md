@@ -16,7 +16,7 @@
 <img width="380" height="350" alt="mockup" src="https://github.com/user-attachments/assets/fffc0fad-11ef-45f2-8757-409bfb68ff56" />
 
 
-**mockup** is a social media platform where users can create their own for you pages, publish posts, create/participate in groups, and engage with each other.
+**mockup** is a social media platform where users can create their own "for you" pages, publish posts, create/participate in groups, and engage with each other.
 
 ---
 
@@ -64,7 +64,7 @@
   - Started to study for Software Engineering Major Degree in 2023 
   - Been developing full-stack websites since 2024
   - Career Goal: Delivering secure, high-performance, convenient products
-  - Short-time Goal: Learning three.js
+  - Short-time Goal: Mastering three.js
 
 ## Skills
 
