@@ -14,7 +14,7 @@
 <img width="380" height="350" alt="mockup" src="https://github.com/user-attachments/assets/fffc0fad-11ef-45f2-8757-409bfb68ff56" />
 
 
-**mockup** is a social media platform inspired from reddit; where users can publish posts, create/participate in groups, and engage with each other.
+**mockup** is a social media platform where users can create their own for you pages, publish posts, create/participate in groups, and engage with each other.
 
 ---
 
